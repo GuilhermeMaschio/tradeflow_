@@ -252,3 +252,28 @@ Visualizar Timeline
         Dashboard Tempo Trabalhado
         Dashboard TOP 10 Redes com Ruptura
         Dashboard TOP 5 Rupturas
+
+
+--
+
+   	Será castrado um cliente no sistema:
+   		A partir desse cadastro será vinculado o que ao cliente?
+
+   		Usuário
+   			Cadastrar Usuário
+   		Cadastro de Centro de Custo (não encontrei no menu)
+   		Cadastrar Configuração
+   		Cadastrar perfil de acesso
+
+   		Promotor
+   		Cadastrar Promotor
+   		Cadastrar Custo Mensal \do Promotor
+   		Rastreamento de Promotor
+   		Vincular Roteiro Padrão com Promotor
+   		Vincular Ruptura Padrão com Promotor
+
+   		MVP preciso de:
+
+   		Cadastro de Cliente
+   		Cadastro de Loja
+   		Cadastro de Contrato (é vinculado lojas das proposta ao contrato).
