@@ -1,0 +1,254 @@
+FUNCIONALIDADES
+
+	- Ponto
+		Abonar Registro Ponto
+		Cadastrar Jornada de Trabalho
+		Liberar Senha Registro Ponto Após Tolerância
+
+	- Operação
+		Aprovar todas as fotos na manutenção (supervisor aprova e reprova fotos)
+		Avaliação de Fotos
+		Cadastrar Alerta de Roteiro
+
+	- Cadastros Gerais
+		Cidade
+			Cadastrar Cidade
+		Feriado
+			Cadastrar Feriado
+		Cliente
+			Cadastrar Cliente
+		Rede
+			Cadastrar Rede (Central de Compras)
+		Loja
+			Cadastrar Loja
+			Cadastrar Mix Loja
+		Contrato
+			Cadastrar Contrato >>
+			        >> importação de loja (tem um layout pré definido para importação de loja) a funcionalidade de importar loja é usada?
+			Gerar PDF do Contrato
+			Suspender contrato
+			Reincidir contrato
+			Excluir
+			Em contrato é inserido as lojas da proposta (lojas em que o cliente exibe produtos).
+			Cadastro de clientes fica na mesma visão de contrato
+			Cadastro de preço/hora fica na mesma visão de contrato
+
+		Fornecedor
+			Cadastrar Fornecedor (onde cadastra isso? não encontrei o link no menu)
+		Produto
+			Cadastrar Produto
+		Promotor
+			Cadastrar Promotor
+			Cadastrar Custo Mensal \do Promotor
+			Rastreamento de Promotor
+			Vincular Roteiro Padrão com Promotor
+			Vincular Ruptura Padrão com Promotor
+		Regional
+			Cadastrar Regional
+			Efetividade por regional
+		Supervisor
+			Cadastrar Supervisor
+		Usuário
+			Cadastrar Usuário
+		Cadastro de Centro de Custo (não encontrei no menu)
+		Cadastrar Configuração
+		Cadastrar perfil de acesso
+
+		Mural
+		Monitoramento dos colaboradores
+
+
+Cadastrar Fornecedor (não encontrei no menu)
+Cadastrar Categorias (de produto?) (não utilizado)
+Cadastrar Grupo (grupo de que?)
+Cadastrar Mix de Produtos do Colaborador (não utilizado)
+Cadastrar Ramo de Atividade (não utilizado)
+Cadastrar Planograma (não utilizado)
+Cadastrar Filial (não utilizado)
+Cadastro de Representante (não utilizado)
+
+Cadastrar Atividade Extra
+Cadastrar Estoque Ideal
+Cadastrar Família
+Cadastrar Marca de Concorrente
+Cadastrar Material de Merchandising
+Cadastrar Mensagem
+Cadastrar Modelo Album
+Cadastrar Modelo de Checklist
+Cadastrar Modelo de Pesquisa
+Cadastrar Modelo de Pesquisa de Preço
+Cadastrar Modelo de Pesquisa de Validade/Estoque
+Cadastrar Motivo de Não Visita
+Cadastrar Motivo de Ruptura
+Cadastrar Motivos de Não Execução de Atividade
+Cadastrar Mural
+Cadastrar Percentual Ideal de Gôndola
+Cadastrar perfil de acesso
+Cadastrar Pergunta
+Cadastrar Permissão
+Cadastrar Quilometragem
+Cadastrar Roteiro
+Cadastrar Roteiro Padrão
+Cadastrar Rotina
+Cadastrar Ruptura Padrão
+Cadastrar Senha Foto
+Cadastrar Supervisor
+Cadastrar Tipo Atividade
+Cadastrar Tipo de Colaborador
+Cadastrar Tipo de Despesa
+Cadastrar Tipo de Movimentação de Material
+Cadastrar Tipo de Notificação
+Cadastrar Tipo de Saída de Material
+Cadastrar Veiculo
+Cadastro de Preço / Hora
+Cadastro de Tag Foto
+
+Compartilhar Dahsboard BI
+Edição de Foto Relatório de Quilometragem
+Edição de Relatórios de Checklist
+Edição de Relatórios de Justificativa não visita
+Edição de Relatórios de Notificação
+Edição de Relatórios de Pesquisa de Preço
+Edição de Relatórios de Pesquisa de Validade
+Edição de Relatórios de Registro de ponto
+Editar Configurações de Envio de Email
+Editar Despesa
+Editar Ruptura
+Efetividade por regional
+Enviar arquivo de importação
+Excluir Arquivos Antigos
+Excluir Fotos
+Excluir Roteiros em Massa
+Excluir Roteiros Futuros
+Excluir Roteiros Passados
+Excluir Ruptura
+Exclusão de Relatórios de Checklist
+Exclusão de Relatórios de Justificativa não visita
+Exclusão de Relatórios de Notificação
+Exclusão de Relatórios de Pesquisa de Preço
+Exclusão de Relatórios de Pesquisa de Validade
+Exclusão de Relatórios de Registro de ponto
+Execução de Roteiros
+Liberar Senha Carga
+Manuteção de Material de Merchandising
+Manutenção de Album
+Manutenção de Roteiro
+Migração de Roteiros
+Rastreamento de Promotor
+Receber Alerta de Atividade Iniciada
+Receber Alerta de Material de Merchandising
+Receber Alerta de Mensagem
+Receber Alerta de Notificação
+Reenviar Carga
+Usar Business Intelligence
+Vincular Roteiro Padrão com Promotor
+Vincular Ruptura Padrão com Promotor
+Visualizador
+Visualizar Album
+Visualizar Alerta de Roteiro
+Visualizar Armazenamento Utilizado
+Visualizar Categoria
+Visualizar Entregas Pendentes
+Visualizar Fornecedor
+Visualizar Histórico de Compras do Cliente
+Visualizar Material de Merchandising
+Visualizar Mensagem SMS
+Visualizar Monitoramento
+Visualizar Timeline
+
+
+	- Relatórios
+		Relatório Contrato x Roteiro
+		Relatório de historico de contrato
+		Relatório de Loja por Contrato
+		Dashboard Promotores sem trabalhar
+		Relatório de Custo do Promotor
+		Relatório de Execução de Roteiro por Promotor
+		Relatório de Histórico do Promotor
+		Relatório de Informações dos Promotores
+		Relatório Contrato x Roteiro
+        Relatório da Carteira de Clientes
+        Relatório de Acessos dos Usuários
+        Relatório de Acompanhamento de Roteiro
+        Relatório de Aplicativos Instalados
+        Relatório de Atividade por Colaborador
+        Relatório de Auditoria
+        Relatório de Caixas
+        Relatório de Checklist
+        Relatório de Checklist de Atividade
+        Relatorio de Checklist de Foto
+        Relatório de Clientes por Atividade
+        Relatório de Conferências de Roteiros
+        Relatório de Controle de Jornada
+        Relatório de Custo de Atendimento no PDV
+        Relatório de Custo do Promotor
+        Relatório de Despesas
+        Relatório de Distância Percorrida Estimada
+        Relatório de E-mail enviado
+        Relatório de E-mail inválido
+        Relatório de Estatísticas de Roteiros
+        Relatório de Estatísticas de Roteiros Consolidados
+        Relatório de Estoque de Material de Merchan.
+        Relatório de Evolução de Rupturas
+        Relatório de Execução de Pesquisas
+        Relatório de Execução de Roteiro por Promotor
+        Relatorio de Faturamento
+        Relatório de folha de ponto assinado
+        Relatório de Fotos
+        Relatório de Fotos de Ruptura
+        Relatório de Fotos Recebidas
+        Relatório de historico de contrato
+        Relatório de Histórico do Promotor
+        Relatório de Horário Consolidado
+        Relatório de Horários
+        Relatório de Informações dos Promotores
+        Relatório de Início de Roteiro
+        Relatório de Justificativa de Não Visita
+        Relatório de KM
+        Relatório de Levantamento de Estoque
+        Relatório de Loja por Cliente
+        Relatório de Loja por Contrato
+        Relatório de Material de Merchandising
+        Relatório de Modelo Operacional
+        Relatório de Motivos de Não Execução de Atividade
+        Relatório de Movimentação de Colaborador
+        Relatório de Passagem de Ônibus
+        Relatório de Pesquisa de Preço
+        Relatório de Pesquisa de Preço Consolidado
+        Relatório de Pesquisa de Produto
+        Relatório de Presença de Checklist
+        Relatorio de Quantidade de Lojas por Cliente
+        Relatório de Recorrência
+        Relatório de Registro de Ponto
+        Relatório de Restrição de Atendimento
+        Relatorio de Roteiro Detalhado
+        Relatório de Roteiros
+        Relatório de Rupturas
+        Relatório de Tempo por Atividade
+        Relatório de Tráfego
+        Relatório de Vencimento de Produtos
+        Relatório de Vendas
+        Relatório de Visitas
+        Relatório Execução Lojas
+        Relatório Pausa Almoço
+        Relatorio Pedido
+        Relatório Quantitativo de Fotos
+        Relatorio Roteiro Cliente
+        Relatório Share
+        Relatório tempo de atendimento
+        Relatorio Tempo em Loja GPS
+        Dashboard Análise de Preço Banda
+        Dashboard Armazenamento
+        Dashboard Atrasos
+        Dashboard Efetividade Visitas
+        Dashboard Evolução Ruptura Geral
+        Dashboard Média de Minutos Trabalhados
+        Dashboard Pesquisa de Preço
+        Dashboard Promotores sem trabalhar
+        Dashboard Quantidade de Roteiros
+        Dashboard Ruptura Geral
+        Dashboard Ruptura por Motivo
+        Dashboard Ruptura por região
+        Dashboard Tempo Trabalhado
+        Dashboard TOP 10 Redes com Ruptura
+        Dashboard TOP 5 Rupturas

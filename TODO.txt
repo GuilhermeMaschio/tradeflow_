@@ -1,0 +1,19 @@
+
+ok	- Criar exemplo de cadastro em uma tabela qqr
+ok	- Criar os endpoints do crud dessa tabela
+ok	- Criar um endpoint de listagem com filtros
+ok	- Criar log_alteracao
+ok	- Criar os endpoints que vão alterar os usuários no keycloak (cadastro, listagem, desabilitar, hablitar, etc)
+ok	- Verificar como vamos relacionar os usuários do keycloak com os registros do tradeflow (vamos duplicar os cadastros aqui?)
+ok	- ELK Stack
+	- Hateos
+
+
+
+
+
+
+
+
+
+
